@@ -1,13 +1,11 @@
 local-env
 
 
-music_controller/frontend/node_modules
+node_modules
 
 # Byte-compiled / optimized / DLL files
-music_controller/api/__pycache__
-music_controller/frontend/__pycache__
-music_controller/music_controller/__pycache__
-*.py[cod]
+**/__pycache__
+**/*.py[cod]
 
 music_controller/db.sqlite3
 music_controller/frontend/static/frontend
