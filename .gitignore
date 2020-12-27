@@ -11,3 +11,8 @@ music_controller/music_controller/__pycache__
 
 music_controller/db.sqlite3
 music_controller/frontend/static/frontend
+music_controller/db.sqlite3
+music_controller/api/__pycache__/urls.cpython-38.pyc
+music_controller/api/__pycache__/views.cpython-38.pyc
+music_controller/frontend/static/frontend/main.js
+music_controller/frontend/static/frontend/main.js.LICENSE.txt
